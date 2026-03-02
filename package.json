@@ -1,0 +1,1 @@
+{\n  "name": "capybara-game",\n  "version": "1.0.0",\n  "main": "app.js",\n  "scripts": {\n    "start": "react-native start"\n  },\n  "dependencies": {\n    "react": "17.0.2",\n    "react-native": "0.64.0"\n  }\n}
